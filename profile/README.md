@@ -4,4 +4,4 @@ ByteClass a drag and drop replacement for all google classroom task and student 
 
 ## Tech Plan!
 
-<img src="https://raw.githubusercontent.com/Dhruv-Banking/.github/main/assets/plan.png">
+<img src="https://raw.githubusercontent.com/Byte-Class/.github/main/assets/techstack.png">
